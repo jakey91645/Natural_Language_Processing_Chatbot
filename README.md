@@ -26,5 +26,5 @@ OR just run pip install -r backend/requirements.txt to install both in one shot
 
 # NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
 
-## instagram
+## Instagram
 `jakey91645`
